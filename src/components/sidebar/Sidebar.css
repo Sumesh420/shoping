@@ -1,0 +1,27 @@
+.sidebar {
+   
+    margin-top: 20px;
+    padding: 10;
+    width:200px;
+    background-color: #f1f1f1;
+    position: unset;
+    height: 100%;
+    overflow: auto;
+  border:"";
+  display:table-cell;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.sidebar ul li:hover {
+  color: #333;
+  font-weight: bold;
+}

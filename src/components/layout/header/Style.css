@@ -1,0 +1,201 @@
+
+.top-header {
+    background: #f13f31;
+    padding: 8px 0px;
+    border-bottom: 1px solid #3131315e;
+  }
+  .head1p1 {
+    font-size: 12px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .head1ul {
+    list-style: none;
+    float: right;
+  }
+  .head1ul li {
+    float: left;
+    padding-left: 10px;
+  }
+  .head1ul li a {
+    font-size: 12px;
+    color: #ffffff;
+font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+  }
+  .head1ul li i {
+    font-size: 15px;
+    color: #ffffff;
+  }
+  
+.search-panel {
+  background: #f13f31;
+  padding: 12px 0px;
+  height:"20px";
+}
+.search-textbox {
+  padding-left: 16px;
+  height: 40px;
+  width: 80%;
+  border: 1px solid #fff;
+  float: left;
+}
+.search-button {
+  height: 40px;
+  width: 55px;
+  border: none;
+  background: rgb(114, 102, 102);
+  float: left;
+}
+.search-button i {
+  color: #f13f31;
+}
+.cart-sect {
+  list-style: none;
+  float: right;
+  margin-top: 9px;
+  color: wheat;
+}
+.cart-sect li {
+  float: left;
+  padding: 0px 6px;
+}
+.cart-sect li a {
+  font-size: 14px;
+  color: #ffffff;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.cart-sect li i {
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.main-menu {
+  list-style: none;
+}
+.main-menu a {
+  font-weight: 500;
+  color: #2b304a;
+  font-size: 17px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: none;
+}
+.main-menu li {
+  float: left;
+  padding: 12px 20px;
+}
+.logo{
+ float: left;
+ 
+  width: 100px;
+  height: 100px;
+}
+.img{
+  width:1500px;
+  height: 400px;
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.width-33 {
+  width: 33.33%;
+}
+
+.banner-list {
+  margin-bottom: 60px; 
+  padding: 0px 0px 50px 0px;
+}
+
+.banner-list a {
+  text-decoration: none;
+}
+
+.wimg100 {
+  width: 100%;
+  height: auto; 
+  padding: bottom 50px; ;
+}
+
+
+/**********  Product-Section CSS Code Starts  **********/
+/**********  Footer-Section CSS Code Starts  **********/
+.footer {
+  background: #232f3e;
+  padding: 50px 0px;
+}
+.quicklink-menu {
+  list-style: none;
+  padding-left: 10px;
+}
+.quicklink-menu li a {
+  color: #fff;
+  line-height: 2.5;
+  font-size: 15px;
+  text-decoration: none;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.social-media {
+  list-style: none;
+  margin-top: 10px;
+}
+.social-media li a img {
+  width: 30px;
+}
+.social-media li {
+  float: left;
+  padding: 0px 8px;
+}
+.quicklink-heading {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-bottom: 10px;
+}
+.get-in-touch {
+  list-style: none;
+  padding-left: 10px;
+}
+.get-in-touch li i {
+  color: #ed372c;
+  font-size: 20px;
+}
+.get-in-touch li {
+  color: #fff;
+  line-height: 2.5;
+  font-size: 15px;
+  text-decoration: none;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.footer-e-mail {
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.footer-website {
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.footer2-bacbor {
+  background: #232f3e;
+  padding: 10px 0px;
+  border-top: 1px solid #898989;
+}
+.footer2-content {
+  font-size: 14px;
+  color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+/**********   Footer-Section CSS Code Ends  **********/
